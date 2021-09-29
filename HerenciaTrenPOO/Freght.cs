@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 namespace HerenciaTrenPOO
 {
-    class Freght:Train
+    //INTEGRANTES: Wilber Jose Jimenez Ramirez-SMIS058221 y Jonathan Elias Gamez Larin-SMIS017821
+    class Freght :Train
     {
         public string Capacity { get; set; }
 
         public int Carriages { get; set; }
 
         public Boolean Hazardous { get; set; }
+
+        public string Speed { get; set; }
 
         public string Set_Hazardous()
         {
@@ -27,7 +30,7 @@ namespace HerenciaTrenPOO
 
             }
 
-            return "La capacidad que tiene el tren es indicada y " + Capacity + Carriages + " vagones " + Integridad;
+            return "La capacidad que tiene el tren es indicada y " + Capacity + Carriages + " vagones " + Integridad + Speed;
         }
 
 

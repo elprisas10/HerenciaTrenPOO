@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HerenciaTrenPOO
 {
+    //INTEGRANTES: Wilber Jose Jimenez Ramirez-SMIS058221 y Jonathan Elias Gamez Larin-SMIS017821
     class Train
     {
         public string Starting_From { get; set; }

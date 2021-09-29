@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\bin\Debug\HerenciaTrenPOO.exe.config
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\bin\Debug\HerenciaTrenPOO.exe
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\bin\Debug\HerenciaTrenPOO.pdb
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\obj\Debug\HerenciaTrenPOO.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\obj\Debug\HerenciaTrenPOO.Form1.resources
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\obj\Debug\HerenciaTrenPOO.Properties.Resources.resources
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\obj\Debug\HerenciaTrenPOO.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\obj\Debug\HerenciaTrenPOO.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\obj\Debug\HerenciaTrenPOO.exe
+C:\Users\Pc\Desktop\Proyectos\HerenciaTrenPOO\HerenciaTrenPOO\obj\Debug\HerenciaTrenPOO.pdb
